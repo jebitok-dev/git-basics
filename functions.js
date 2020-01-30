@@ -6,7 +6,7 @@ function div(a,b) {
 
 }
 
-Let dividend = div (6,2);
+let dividend = div (6,2);
 console.log(dividend);
 
 // Function expression
@@ -21,4 +21,24 @@ console.log(dividend_exp)
 let dividend_exp = (a,b) => {
 return a%b;
 
-let dividend_exp=
+//let dividend_exp =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
